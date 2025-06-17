@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey-ho, let's go!
 
 <!--
 **DiePaupi/DiePaupi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Pauline (Paupi) and currently working on my PhD at TU Dortmund University's chair of enterprise computing.
+
+
+### Languages and tools:
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pina-cola&layout=compact&theme=dark)
+
+Generally I'm using:
+
+<a href="https://www.python.org" target="_blank"><img alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/></a>
+<a href="https://www.java.com/" target="_blank"><img alt="Java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/></a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/></a>
+
+<a href="https://git-scm.com/" target="_blank"><img alt="Git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img alt="VS Code" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"/></a>
