@@ -28,16 +28,19 @@ I'm Pauline (Paupi) and currently working on my PhD at TU Dortmund University's 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DiePaupi&layout=compact&theme=dark)
 
+#### Coding
 <!-- Python & Java -->
 <a href="https://www.python.org" target="_blank"><img alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/></a>
 <a href="https://www.java.com/" target="_blank"><img alt="Java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/></a>
 
+#### Web Development
 <!-- JavaScript & HTML & Bootstrap & CSS -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="JavaScript" width="26px" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/></a>
 <a href="https://getbootstrap.com" target="_blank"><img alt="Bootstrap" width="26px" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/></a>
 
+#### Tools
 <!-- GitHub & VS Code -->
 <a href="https://git-scm.com/" target="_blank"><img alt="Git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img alt="VS Code" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"/></a>
