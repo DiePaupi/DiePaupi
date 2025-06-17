@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Pauline (Paupi) and currently working on my PhD at TU Dortmund University's chair of enterprise computing.
+I'm Pauline and currently working on my PhD at TU Dortmund University's chair of enterprise computing.
+
+- 🎓 Bachelor and master in computer science
+- 🔭 Doing research in XAI
 
 
 <!-- ### My GitHub Stats
@@ -34,9 +37,10 @@ I'm Pauline (Paupi) and currently working on my PhD at TU Dortmund University's 
 <a href="https://www.java.com/" target="_blank"><img alt="Java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/></a>
 
 #### Web Development
-<!-- JavaScript & HTML & Bootstrap & CSS -->
+<!-- JavaScript & HTML & Bootstrap & Plotly & CSS -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="JavaScript" width="26px" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"/></a>
 <a href="https://getbootstrap.com" target="_blank"><img alt="Bootstrap" width="26px" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"/></a>
+<a href="https://plotly.com/" target="_blank"><img alt="Plotly" width="26px" src="https://avatars.githubusercontent.com/u/5997976?s=200&v=4"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/></a>
 
