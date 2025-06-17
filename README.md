@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 I'm Pauline (Paupi) and currently working on my PhD at TU Dortmund University's chair of enterprise computing.
 
 
-### My GitHub Stats
+<!-- ### My GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=DiePaupi&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=DiePaupi&show_icons=true&theme=radical) -->
 
 
 
@@ -38,6 +38,11 @@ I'm Pauline (Paupi) and currently working on my PhD at TU Dortmund University's 
 <a href="https://getbootstrap.com" target="_blank"><img alt="Bootstrap" width="26px" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/></a>
 
-<!-- Git & VS Code -->
+<!-- GitHub & VS Code -->
 <a href="https://git-scm.com/" target="_blank"><img alt="Git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img alt="VS Code" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"/></a>
+
+
+### Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/pauline-speckmann/)
