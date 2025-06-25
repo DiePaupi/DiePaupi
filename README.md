@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm Pauline and currently working on my PhD at TU Dortmund University's chair of enterprise computing.
 
-- 🎓 S.Sc. and M.Sc. in computer science
+- 🎓 B.Sc. and M.Sc. in computer science
 - 🔭 Doing research in XAI
 
 
